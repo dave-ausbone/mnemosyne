@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mnemosyne</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_item_tasks">Tâches</string>
+    <string name="nav_item_settings">Paramètres</string>
+    <string name="nav_item_share">Partager</string>
+    <string name="nav_item_more">Plus</string>
+
+    <string name="action_settings">Paramètres</string>
+
+    <string name="task_name">Nom de la tache</string>
+    <string name="task_comment">Commentaire</string>
+    <string name="task_content">Description</string>
+
+    <string name="to_date_time">AU</string>
+    <string name="from_date_time">DU</string>
+
+    <string name="edit_reminder_header">RAPPELS</string>
+    <string name="format_time">MM:HH</string>
+    <string name="format_date">DD/MM/YYYY</string>
+    <string name="task_status">Fait</string>
+
+    <string name="status_done">Fait</string>
+    <string name="status_not_done">A faire</string>
+
+    <string name="share_msg">Hey,\nJ\'adore utiliser Mnemosyne.\nCette application me permet de mieux gérer mes taches.\nTu devrais aller la télécharger sur le playstore.</string>
+
+</resources>
